@@ -1,0 +1,2 @@
+odoo14-addon-base-business-document-import @git+https://github.com/trobz/edi@14.0-mig-base_business_document_import#subdirectory=setup/base_business_document_import
+odoo14-addon-partner-identification @git+https://github.com/phuctranerp/partner-contact@14.0-mig-partner_identification#subdirectory=setup/partner_identification
